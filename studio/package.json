@@ -1,0 +1,30 @@
+{
+  "name": "openseablockchainclone",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "package.json",
+  "author": "Rafeh Qazi <qazi@cleverprogrammer.com>",
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "sanity start",
+    "build": "sanity build"
+  },
+  "keywords": [
+    "sanity"
+  ],
+  "dependencies": {
+    "@sanity/base": "^2.25.0",
+    "@sanity/core": "^2.25.0",
+    "@sanity/default-layout": "^2.25.0",
+    "@sanity/default-login": "^2.24.1",
+    "@sanity/desk-tool": "^2.25.0",
+    "@sanity/vision": "^2.25.0",
+    "prop-types": "^15.7",
+    "react": "^17.0",
+    "react-dom": "^17.0",
+    "react-icons": "^4.3.1",
+    "styled-components": "^5.2.0"
+  },
+  "devDependencies": {}
+}
