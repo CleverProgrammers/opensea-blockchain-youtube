@@ -6,9 +6,11 @@
     "start": "next start"
   },
   "dependencies": {
-    "@3rdweb/hooks": "^1.8.0",
-    "@3rdweb/sdk": "^1.36.11",
+    "@3rdweb/hooks": "^1.9.2",
+    "@3rdweb/sdk": "^1.42.1",
     "@sanity/client": "^2.23.2",
+    "@thirdweb-dev/sdk": "^2.3.7",
+    "ethers": "^5.6.8",
     "next": "latest",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
