@@ -70,7 +70,7 @@ const Collection = () => {
       'https://rinkeby.infura.io/v3/a464b9152d8c466c8a94a514fce8e837'
     )
     return sdk.getMarketplaceModule(
-      '0x93A771F7ce845C33381f677489cF21a5964EDD0b'
+      '0xcD21E5d92e67002985FA6450390a3D24584a3933'
     )
   }, [provider])
 
@@ -182,7 +182,7 @@ const Collection = () => {
             <div className={style.collectionStat}>
               <div className={style.statValue}>
                 <img
-                  src="https://storage.opensea.io/files/6f8e2979d428180222796ff4a33ab929.svg"
+                  src="https://cryptologos.cc/logos/ethereum-eth-logo.svg"
                   alt="eth"
                   className={style.ethLogo}
                 />
@@ -193,7 +193,7 @@ const Collection = () => {
             <div className={style.collectionStat}>
               <div className={style.statValue}>
                 <img
-                  src="https://storage.opensea.io/files/6f8e2979d428180222796ff4a33ab929.svg"
+                  src="https://cryptologos.cc/logos/ethereum-eth-logo.svg"
                   alt="eth"
                   className={style.ethLogo}
                 />

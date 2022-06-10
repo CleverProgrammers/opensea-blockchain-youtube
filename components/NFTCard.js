@@ -55,7 +55,7 @@ const NFTCard = ({ nftItem, title, listings }) => {
               <div className={style.priceTag}>Price</div>
               <div className={style.priceValue}>
                 <img
-                  src="https://storage.opensea.io/files/6f8e2979d428180222796ff4a33ab929.svg"
+                  src="https://cryptologos.cc/logos/ethereum-eth-logo.svg"
                   alt="eth"
                   className={style.ethLogo}
                 />
